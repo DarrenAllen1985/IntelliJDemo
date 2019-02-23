@@ -4,8 +4,7 @@ public class MainTest {
 
   public static void main(String[] args) {
 
-    System.out.println("Hello world test");
-    System.out.println("This is test 2");
+    System.out.println("Hello this goes into Branch 3");
   }
 
 }
